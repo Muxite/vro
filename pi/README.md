@@ -2,7 +2,7 @@
 
 This directory contains code and scripts that run on the Raspberry Pi.
 
-## Setup
+## Python Application
 
 1. Install Python dependencies:
    ```bash
@@ -24,6 +24,6 @@ Edit `config.py` to adjust settings, or set environment variables:
 
 ## Project Structure
 
-- `main.py` - Main application entry point
+- `main.py` - Python application entry point
 - `config.py` - Configuration settings
 - `requirements.txt` - Python dependencies
